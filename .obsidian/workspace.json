@@ -11,10 +11,12 @@
             "id": "67c48c860039ce5f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "00-Inbox/Frensh/mind-map.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "mind-map"
             }
           }
         ]
